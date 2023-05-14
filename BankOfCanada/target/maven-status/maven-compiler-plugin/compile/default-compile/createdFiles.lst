@@ -1,0 +1,7 @@
+utils\Query.class
+utils\OrderDirection.class
+operations\data\ReadDataFromAPI.class
+operations\file\CSVFileWriter.class
+operations\file\CSVFileReader.class
+utils\Series.class
+run\App.class
