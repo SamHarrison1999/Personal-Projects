@@ -19,6 +19,7 @@
 - [Lucky Sevens](https://github.com/SamH1999-eng/Projects/tree/main/Lucky%20Sevens)
 - [Minesweeper](https://github.com/SamH1999-eng/Projects/tree/721be5c4ca365c8690117d97b750035026ea0bff/Minesweeper)
 - [Rock Paper Scissors](https://github.com/SamH1999-eng/Projects/tree/main/Rock%20Paper%20Scissors)
+- [Bank of Canada](https://github.com/SamHarrison1999/Personal-Projects/tree/main/BankOfCanada)
 
 
 ## Python Projects
